@@ -1,0 +1,1 @@
+<?php header("location:bs/index.php?a=1");?>

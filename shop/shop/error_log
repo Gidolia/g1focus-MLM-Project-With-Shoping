@@ -1,0 +1,2 @@
+[23-Dec-2016 07:43:29 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_bv() in /home/gidolia/public_html/g1focus/shop/shop/distributor.php on line 79
+[23-Dec-2016 11:20:04 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_bv() in /home/gidolia/public_html/g1focus/shop/shop/rd.php on line 117

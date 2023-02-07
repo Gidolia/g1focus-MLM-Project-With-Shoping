@@ -1,0 +1,54 @@
+[16-Jan-2017 09:28:23 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string ($date) at position 0 ($): Unexpected character' in /home/gidolia/public_html/g1focus/user/morris.php:50
+Stack trace:
+#0 /home/gidolia/public_html/g1focus/user/morris.php(50): DateTime->__construct('$date')
+#1 {main}
+  thrown in /home/gidolia/public_html/g1focus/user/morris.php on line 50
+[16-Jan-2017 09:28:25 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string ($date) at position 0 ($): Unexpected character' in /home/gidolia/public_html/g1focus/user/morris.php:50
+Stack trace:
+#0 /home/gidolia/public_html/g1focus/user/morris.php(50): DateTime->__construct('$date')
+#1 {main}
+  thrown in /home/gidolia/public_html/g1focus/user/morris.php on line 50
+[16-Jan-2017 09:31:37 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string ($date) at position 0 ($): Unexpected character' in /home/gidolia/public_html/g1focus/user/morris.php:50
+Stack trace:
+#0 /home/gidolia/public_html/g1focus/user/morris.php(50): DateTime->__construct('$date')
+#1 {main}
+  thrown in /home/gidolia/public_html/g1focus/user/morris.php on line 50
+[16-Jan-2017 09:31:38 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string ($date) at position 0 ($): Unexpected character' in /home/gidolia/public_html/g1focus/user/morris.php:50
+Stack trace:
+#0 /home/gidolia/public_html/g1focus/user/morris.php(50): DateTime->__construct('$date')
+#1 {main}
+  thrown in /home/gidolia/public_html/g1focus/user/morris.php on line 50
+[16-Jan-2017 09:32:48 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string ($date) at position 0 ($): Unexpected character' in /home/gidolia/public_html/g1focus/user/morris.php:50
+Stack trace:
+#0 /home/gidolia/public_html/g1focus/user/morris.php(50): DateTime->__construct('$date')
+#1 {main}
+  thrown in /home/gidolia/public_html/g1focus/user/morris.php on line 50
+[16-Jan-2017 09:35:15 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/gidolia/public_html/g1focus/user/morris.php on line 47
+[16-Jan-2017 09:35:41 Asia/Calcutta] PHP Fatal error:  Call to a member function format() on a non-object in /home/gidolia/public_html/g1focus/user/morris.php on line 50
+[16-Jan-2017 09:35:42 Asia/Calcutta] PHP Fatal error:  Call to a member function format() on a non-object in /home/gidolia/public_html/g1focus/user/morris.php on line 50
+[16-Jan-2017 09:36:08 Asia/Calcutta] PHP Fatal error:  Call to a member function format() on a non-object in /home/gidolia/public_html/g1focus/user/morris.php on line 50
+[16-Jan-2017 10:04:15 Asia/Calcutta] PHP Fatal error:  Call to a member function format() on a non-object in /home/gidolia/public_html/g1focus/user/morris.php on line 51
+[16-Jan-2017 10:04:16 Asia/Calcutta] PHP Fatal error:  Call to a member function format() on a non-object in /home/gidolia/public_html/g1focus/user/morris.php on line 51
+[16-Jan-2017 14:10:06 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/gidolia/public_html/g1focus/user/graph.php on line 47
+[16-Jan-2017 14:10:09 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/gidolia/public_html/g1focus/user/graph.php on line 47
+[16-Jan-2017 14:11:51 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/gidolia/public_html/g1focus/user/graph.php on line 47
+[16-Jan-2017 14:11:52 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/gidolia/public_html/g1focus/user/graph.php on line 47
+[16-Jan-2017 14:11:53 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/gidolia/public_html/g1focus/user/graph.php on line 47
+[16-Jan-2017 14:12:30 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/gidolia/public_html/g1focus/user/graph.php on line 47
+[16-Jan-2017 14:14:14 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/gidolia/public_html/g1focus/user/graph.php on line 47
+[16-Jan-2017 14:14:15 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/gidolia/public_html/g1focus/user/graph.php on line 47
+[16-Jan-2017 14:14:15 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/gidolia/public_html/g1focus/user/graph.php on line 47
+[31-Mar-2017 06:49:49 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string ($ghjk[date] $ghjk[time]) at position 0 ($): Unexpected character' in /home/gidolia/public_html/g1focus/user/downline_list.php:113
+Stack trace:
+#0 /home/gidolia/public_html/g1focus/user/downline_list.php(113): DateTime->__construct('$ghjk[date] $gh...')
+#1 /home/gidolia/public_html/g1focus/user/downline_list.php(163): time_elapsed_string('$ghjk[date] $gh...')
+#2 /home/gidolia/public_html/g1focus/user/downline_list.php(167): printtree('81465')
+#3 {main}
+  thrown in /home/gidolia/public_html/g1focus/user/downline_list.php on line 113
+[31-Mar-2017 06:51:55 Asia/Calcutta] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string ($combined_date_and_time) at position 0 ($): Unexpected character' in /home/gidolia/public_html/g1focus/user/downline_list.php:113
+Stack trace:
+#0 /home/gidolia/public_html/g1focus/user/downline_list.php(113): DateTime->__construct('$combined_date_...')
+#1 /home/gidolia/public_html/g1focus/user/downline_list.php(167): time_elapsed_string('$combined_date_...')
+#2 /home/gidolia/public_html/g1focus/user/downline_list.php(171): printtree('81465')
+#3 {main}
+  thrown in /home/gidolia/public_html/g1focus/user/downline_list.php on line 113
